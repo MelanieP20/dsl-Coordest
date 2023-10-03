@@ -127,13 +127,3 @@ dsl-Coordest
 - Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-vmk)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=readme-vmk)
 
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-vmk) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vmk) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-vmk) (earn money)
-
